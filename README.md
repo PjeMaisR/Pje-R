@@ -1,9 +1,3 @@
----
-lang: pt-BR
-title: Introdução
-description: Sobre o projeto PJe+R
-order: 0
----
 # pjemaisr
 
 ## Visão Geral
